@@ -1,4 +1,4 @@
 deployment flask 
 - buat folder baru
-- buka folder melalui VSC
 - buat subfolder "model" pada folder
+- buat file dengan nama index.html
